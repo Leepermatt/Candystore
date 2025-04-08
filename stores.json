@@ -1,0 +1,238 @@
+[{
+  "_id": {
+    "$oid": "67cb80cab39c3bf08c3d5910"
+  },
+  "name": "Chocolate Bliss",
+  "street": "333 Fudge Ln",
+  "city": "Seattle",
+  "state": "WA",
+  "zip_code": "98101",
+  "phone_number": "+1-206-555-8765",
+  "email": "support@chocolatebliss.com",
+  "owner_id": {
+    "$oid": "67cb9b89b39c3bf08c3d593f"
+  },
+  "operating_hours": "8:00 AM - 9:00 PM",
+  "website": "http://www.chocolatebliss.com"
+},
+{
+  "_id": {
+    "$oid": "67cb80cab39c3bf08c3d5911"
+  },
+  "name": "Candy Craze",
+  "street": "555 Peppermint Blvd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip_code": "85001",
+  "phone_number": "+1-602-555-1234",
+  "email": "info@candycraze.com",
+  "owner_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5940"
+  },
+  "operating_hours": "10:00 AM - 6:00 PM",
+  "website": "http://www.candycraze.com"
+},
+{
+  "_id": {
+    "$oid": "67cb80cab39c3bf08c3d5912"
+  },
+  "name": "The Candy Emporium",
+  "street": "777 Caramel St",
+  "city": "Denver",
+  "state": "CO",
+  "zip_code": "80202",
+  "phone_number": "+1-303-555-2345",
+  "email": "contact@candyemporium.com",
+  "owner_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5941"
+  },
+  "operating_hours": "9:00 AM - 7:00 PM",
+  "website": "http://www.candyemporium.com"
+},
+{
+  "_id": {
+    "$oid": "67cb80cab39c3bf08c3d5913"
+  },
+  "name": "Fudge Factory",
+  "street": "999 Cocoa Ln",
+  "city": "Boston",
+  "state": "MA",
+  "zip_code": "02108",
+  "phone_number": "+1-617-555-3456",
+  "email": "support@fudgefactory.com",
+  "owner_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5942"
+  },
+  "operating_hours": "8:30 AM - 8:00 PM",
+  "website": "http://www.fudgefactory.com"
+},
+{
+  "_id": {
+    "$oid": "67cb80cab39c3bf08c3d5914"
+  },
+  "name": "Lollipop Land",
+  "street": "202 Cherry Pop Rd",
+  "city": "Miami",
+  "state": "FL",
+  "zip_code": "33101",
+  "phone_number": "+1-305-555-4567",
+  "email": "info@lollipopland.com",
+  "owner_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5943"
+  },
+  "operating_hours": "10:00 AM - 6:00 PM",
+  "website": "http://www.lollipopland.com"
+},
+{
+  "_id": {
+    "$oid": "67cb80cab39c3bf08c3d5915"
+  },
+  "name": "Caramel Castle",
+  "street": "123 Toffee St",
+  "city": "New York",
+  "state": "NY",
+  "zip_code": "10001",
+  "phone_number": "+1-212-555-6789",
+  "email": "info@caramelcastle.com",
+  "owner_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5944"
+  },
+  "operating_hours": "9:00 AM - 7:30 PM",
+  "website": "http://www.caramelcastle.com"
+},
+{
+  "_id": {
+    "$oid": "67cb80cab39c3bf08c3d5916"
+  },
+  "name": "Tasty Taffy",
+  "street": "234 Soft Chew Ln",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zip_code": "89101",
+  "phone_number": "+1-702-555-7890",
+  "email": "hello@tastytaffy.com",
+  "owner_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5945"
+  },
+  "operating_hours": "10:30 AM - 8:00 PM",
+  "website": "http://www.tastytaffy.com"
+},
+{
+  "_id": {
+    "$oid": "67cb80cab39c3bf08c3d5917"
+  },
+  "name": "Choco Kingdom",
+  "street": "678 Dark Choco Ave",
+  "city": "Austin",
+  "state": "TX",
+  "zip_code": "73301",
+  "phone_number": "+1-512-555-9012",
+  "email": "contact@chocokingdom.com",
+  "owner_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5946"
+  },
+  "operating_hours": "9:00 AM - 6:00 PM",
+  "website": "http://www.chocokingdom.com"
+},
+{
+  "_id": {
+    "$oid": "67cb80cab39c3bf08c3d5918"
+  },
+  "name": "Lollipop Haven",
+  "street": "789 Candy Stick Rd",
+  "city": "Philadelphia",
+  "state": "PA",
+  "zip_code": "19103",
+  "phone_number": "+1-215-555-1122",
+  "email": "info@lollipophaven.com",
+  "owner_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5947"
+  },
+  "operating_hours": "10:00 AM - 8:00 PM",
+  "website": "http://www.lollipophaven.com"
+},
+{
+  "_id": {
+    "$oid": "67cb80cab39c3bf08c3d5919"
+  },
+  "name": "Gummy Wonderland",
+  "street": "987 Bear Gummies Ct",
+  "city": "San Diego",
+  "state": "CA",
+  "zip_code": "92101",
+  "phone_number": "+1-619-555-3344",
+  "email": "support@gummywonderland.com",
+  "owner_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5948"
+  },
+  "operating_hours": "9:30 AM - 7:00 PM",
+  "website": "http://www.gummywonderland.com"
+},
+{
+  "_id": {
+    "$oid": "67cb80cab39c3bf08c3d591a"
+  },
+  "name": "Peanut Butter Bliss",
+  "street": "246 Reese St",
+  "city": "Nashville",
+  "state": "TN",
+  "zip_code": "37201",
+  "phone_number": "+1-615-555-5566",
+  "email": "hello@pbbliss.com",
+  "owner_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5949"
+  },
+  "operating_hours": "8:00 AM - 9:00 PM",
+  "website": "http://www.pbbliss.com"
+},
+{
+  "_id": {
+    "$oid": "67cb80cab39c3bf08c3d591b"
+  },
+  "name": "Sugar Whirl",
+  "street": "555 Spinning Sugar Ln",
+  "city": "Dallas",
+  "state": "TX",
+  "zip_code": "75201",
+  "phone_number": "+1-214-555-6677",
+  "email": "contact@sugarwhirl.com",
+  "owner_id": {
+    "$oid": "67cb9b89b39c3bf08c3d594a"
+  },
+  "operating_hours": "10:00 AM - 6:00 PM",
+  "website": "http://www.sugarwhirl.com"
+},
+{
+  "_id": {
+    "$oid": "67cb80cab39c3bf08c3d591c"
+  },
+  "name": "Minty Fresh Treats",
+  "street": "121 Cool Mint Ave",
+  "city": "Charlotte",
+  "state": "NC",
+  "zip_code": "28202",
+  "phone_number": "+1-704-555-7788",
+  "email": "info@mintyfresh.com",
+  "owner_id": {
+    "$oid": "67cb9b89b39c3bf08c3d594b"
+  },
+  "operating_hours": "9:00 AM - 7:30 PM",
+  "website": "http://www.mintyfresh.com"
+},
+{
+  "_id": {
+    "$oid": "67cb80cab39c3bf08c3d591d"
+  },
+  "name": "Rainbow Candies",
+  "street": "333 Skittle St",
+  "city": "San Antonio",
+  "state": "TX",
+  "zip_code": "78205",
+  "phone_number": "+1-210-555-8899",
+  "email": "hello@rainbowcandies.com",
+  "owner_id": {
+    "$oid": "67cb9b89b39c3bf08c3d594c"
+  },
+  "operating_hours": "10:30 AM - 6:30 PM",
+  "website": "http://www.rainbowcandies.com"
+}]

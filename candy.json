@@ -1,0 +1,300 @@
+[{
+  "_id": {
+    "$oid": "67cb801eb39c3bf08c3d58dc"
+  },
+  "name": "Snickers",
+  "description": "Milk chocolate, peanuts, caramel, and nougat.",
+  "shipping_container": "pallet",
+  "price_per_unit": 1.5,
+  "stock_quantity": 1000,
+  "supplier_name": "Mars, Inc.",
+  "date_added": "2023-01-01"
+},
+{
+  "_id": {
+    "$oid": "67cb801eb39c3bf08c3d58dd"
+  },
+  "name": "M&M's",
+  "description": "Colorful, candy-coated chocolates.",
+  "shipping_container": "cardboardBox",
+  "price_per_unit": 0.99,
+  "stock_quantity": 1200,
+  "supplier_name": "Mars, Inc.",
+  "date_added": "2023-01-15"
+},
+{
+  "_id": {
+    "$oid": "67cb801eb39c3bf08c3d58de"
+  },
+  "name": "Reese's Peanut Butter Cups",
+  "description": "Milk chocolate and peanut butter cups.",
+  "shipping_container": "cardboardBox",
+  "price_per_unit": 1.75,
+  "stock_quantity": 800,
+  "supplier_name": "Hershey's",
+  "date_added": "2023-02-01"
+},
+{
+  "_id": {
+    "$oid": "67cb801eb39c3bf08c3d58df"
+  },
+  "name": "Skittles",
+  "description": "Fruit-flavored chewy candy.",
+  "shipping_container": "displayBox",
+  "price_per_unit": 1.25,
+  "stock_quantity": 1500,
+  "supplier_name": "Mars, Inc.",
+  "date_added": "2023-02-15"
+},
+{
+  "_id": {
+    "$oid": "67cb801eb39c3bf08c3d58e0"
+  },
+  "name": "Twix",
+  "description": "Caramel, biscuit, and chocolate bar.",
+  "shipping_container": "crate",
+  "price_per_unit": 1.6,
+  "stock_quantity": 900,
+  "supplier_name": "Mars, Inc.",
+  "date_added": "2023-03-01"
+},
+{
+  "_id": {
+    "$oid": "67cb801eb39c3bf08c3d58e1"
+  },
+  "name": "Kit Kat",
+  "description": "Crispy wafer covered in milk chocolate.",
+  "shipping_container": "pallet",
+  "price_per_unit": 1.5,
+  "stock_quantity": 1100,
+  "supplier_name": "Nestlé",
+  "date_added": "2023-03-10"
+},
+{
+  "_id": {
+    "$oid": "67cb801eb39c3bf08c3d58e2"
+  },
+  "name": "Hershey's Milk Chocolate Bar",
+  "description": "Classic milk chocolate bar.",
+  "shipping_container": "pallet",
+  "price_per_unit": 1,
+  "stock_quantity": 2000,
+  "supplier_name": "Hershey's",
+  "date_added": "2023-03-15"
+},
+{
+  "_id": {
+    "$oid": "67cb801eb39c3bf08c3d58e3"
+  },
+  "name": "Starburst",
+  "description": "Chewy, fruit-flavored candy.",
+  "shipping_container": "crate",
+  "price_per_unit": 1.25,
+  "stock_quantity": 1300,
+  "supplier_name": "Mars, Inc.",
+  "date_added": "2023-04-01"
+},
+{
+  "_id": {
+    "$oid": "67cb801eb39c3bf08c3d58e4"
+  },
+  "name": "Almond Joy",
+  "description": "Milk chocolate, almonds, and coconut.",
+  "shipping_container": "cardboardBox",
+  "price_per_unit": 1.5,
+  "stock_quantity": 1000,
+  "supplier_name": "Hershey's",
+  "date_added": "2023-04-10"
+},
+{
+  "_id": {
+    "$oid": "67cb801eb39c3bf08c3d58e5"
+  },
+  "name": "Butterfinger",
+  "description": "Crispy, crunchy peanut butter in milk chocolate.",
+  "shipping_container": "crate",
+  "price_per_unit": 1.25,
+  "stock_quantity": 950,
+  "supplier_name": "Nestlé",
+  "date_added": "2023-04-15"
+},
+{
+  "_id": {
+    "$oid": "67cb801eb39c3bf08c3d58e6"
+  },
+  "name": "Jolly Rancher",
+  "description": "Hard candy with intense fruit flavors.",
+  "shipping_container": "cardboardBox",
+  "price_per_unit": 0.99,
+  "stock_quantity": 1100,
+  "supplier_name": "The Hershey Company",
+  "date_added": "2023-05-01"
+},
+{
+  "_id": {
+    "$oid": "67cb801eb39c3bf08c3d58e7"
+  },
+  "name": "Trolli Sour Gummy Worms",
+  "description": "Sour and sweet gummy worms.",
+  "shipping_container": "cardboardBox",
+  "price_per_unit": 1.5,
+  "stock_quantity": 800,
+  "supplier_name": "Ferrara Candy Company",
+  "date_added": "2023-05-05"
+},
+{
+  "_id": {
+    "$oid": "67cb801eb39c3bf08c3d58e8"
+  },
+  "name": "Sour Patch Kids",
+  "description": "Sour, sweet, and chewy candy.",
+  "shipping_container": "cardboardBox",
+  "price_per_unit": 1.25,
+  "stock_quantity": 1200,
+  "supplier_name": "Mondelez International",
+  "date_added": "2023-06-01"
+},
+{
+  "_id": {
+    "$oid": "67cb801eb39c3bf08c3d58e9"
+  },
+  "name": "Life Savers",
+  "description": "Fruit-flavored hard candies.",
+  "shipping_container": "pallet",
+  "price_per_unit": 1.1,
+  "stock_quantity": 1300,
+  "supplier_name": "Wrigley",
+  "date_added": "2023-06-10"
+},
+{
+  "_id": {
+    "$oid": "67cb801eb39c3bf08c3d58ea"
+  },
+  "name": "Mounds",
+  "description": "Dark chocolate with coconut filling.",
+  "shipping_container": "crate",
+  "price_per_unit": 1.5,
+  "stock_quantity": 700,
+  "supplier_name": "Hershey's",
+  "date_added": "2023-06-20"
+},
+{
+  "_id": {
+    "$oid": "67cb801eb39c3bf08c3d58eb"
+  },
+  "name": "Lindt Lindor Truffles",
+  "description": "Smooth chocolate truffles with a creamy center.",
+  "shipping_container": "displayBox",
+  "price_per_unit": 3,
+  "stock_quantity": 600,
+  "supplier_name": "Lindt & Sprüngli",
+  "date_added": "2023-07-01"
+},
+{
+  "_id": {
+    "$oid": "67cb801eb39c3bf08c3d58ec"
+  },
+  "name": "Peach Rings",
+  "description": "Sour gummy peach-shaped candy.",
+  "shipping_container": "displayBox",
+  "price_per_unit": 1.25,
+  "stock_quantity": 1100,
+  "supplier_name": "Gummy King",
+  "date_added": "2023-07-10"
+},
+{
+  "_id": {
+    "$oid": "67cb801eb39c3bf08c3d58ed"
+  },
+  "name": "Candy Corn",
+  "description": "Classic Halloween treat.",
+  "shipping_container": "displayBox",
+  "price_per_unit": 1.1,
+  "stock_quantity": 500,
+  "supplier_name": "Brach's",
+  "date_added": "2023-08-01"
+},
+{
+  "_id": {
+    "$oid": "67cb801eb39c3bf08c3d58ee"
+  },
+  "name": "Jelly Belly Jelly Beans",
+  "description": "Gourmet jelly beans in a variety of flavors.",
+  "shipping_container": "crate",
+  "price_per_unit": 2,
+  "stock_quantity": 800,
+  "supplier_name": "Jelly Belly",
+  "date_added": "2023-08-05"
+},
+{
+  "_id": {
+    "$oid": "67cb801eb39c3bf08c3d58ef"
+  },
+  "name": "Ghirardelli Chocolate Squares",
+  "description": "Individually wrapped chocolate squares with various fillings.",
+  "shipping_container": "crate",
+  "price_per_unit": 2.5,
+  "stock_quantity": 650,
+  "supplier_name": "Ghirardelli",
+  "date_added": "2023-08-15"
+},
+{
+  "_id": {
+    "$oid": "67cb801eb39c3bf08c3d58f0"
+  },
+  "name": "Airheads",
+  "description": "Stretchy, tangy fruit-flavored taffy.",
+  "shipping_container": "pallet",
+  "price_per_unit": 0.99,
+  "stock_quantity": 1400,
+  "supplier_name": "Perfetti Van Melle",
+  "date_added": "2023-09-01"
+},
+{
+  "_id": {
+    "$oid": "67cb801eb39c3bf08c3d58f1"
+  },
+  "name": "Whoppers",
+  "description": "Malty milk balls covered in chocolate.",
+  "shipping_container": "pallet",
+  "price_per_unit": 1.5,
+  "stock_quantity": 950,
+  "supplier_name": "Hershey's",
+  "date_added": "2023-09-05"
+},
+{
+  "_id": {
+    "$oid": "67cb801eb39c3bf08c3d58f2"
+  },
+  "name": "Milk Duds",
+  "description": "Caramel in chocolate coating.",
+  "shipping_container": "pallet",
+  "price_per_unit": 1.25,
+  "stock_quantity": 1000,
+  "supplier_name": "Hershey's",
+  "date_added": "2023-09-10"
+},
+{
+  "_id": {
+    "$oid": "67cb801eb39c3bf08c3d58f3"
+  },
+  "name": "Tootsie Rolls",
+  "description": "Chewy chocolate-flavored taffy.",
+  "shipping_container": "pallet",
+  "price_per_unit": 1,
+  "stock_quantity": 1200,
+  "supplier_name": "Tootsie Roll Industries",
+  "date_added": "2023-09-15"
+},
+{
+  "_id": {
+    "$oid": "67cb801eb39c3bf08c3d58f4"
+  },
+  "name": "Gummy Bears",
+  "description": "Classic fruit-flavored gummy candies.",
+  "shipping_container": "cardboardBox",
+  "price_per_unit": 1,
+  "stock_quantity": 1500,
+  "supplier_name": "Haribo",
+  "date_added": "2023-09-20"
+}]

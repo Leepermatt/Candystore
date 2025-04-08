@@ -1,0 +1,420 @@
+[{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d592a"
+  },
+  "google_id": "123456789012345678901",
+  "username": "James Garcia",
+  "email": "james.garcia@email.com",
+  "preferred_name": "Jim",
+  "phone_number": "+1-690-445-2710",
+  "role": "admin",
+  "date_created": "2023-08-01"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d592b"
+  },
+  "google_id": "987654321098765432109",
+  "username": "Maria Lopez",
+  "email": "maria.lopez@email.com",
+  "preferred_name": "Maria",
+  "phone_number": "+1-415-555-3456",
+  "role": "storeowner",
+  "date_created": "2023-08-02"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d592c"
+  },
+  "google_id": "192837465019283746501",
+  "username": "David Smith",
+  "email": "david.smith@email.com",
+  "preferred_name": "Dave",
+  "phone_number": "+1-312-555-4567",
+  "role": "driver",
+  "date_created": "2023-08-03"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d592d"
+  },
+  "google_id": "918273645091827364509",
+  "username": "Kevin Wang",
+  "email": "kevin.wang@email.com",
+  "preferred_name": "Kev",
+  "phone_number": "+1-702-555-5678",
+  "role": "inventoryManager",
+  "date_created": "2023-08-04"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d592e"
+  },
+  "google_id": "567890123456789012345",
+  "username": "Jessica Taylor",
+  "email": "jessica.taylor@email.com",
+  "preferred_name": "Jess",
+  "phone_number": "+1-305-555-6789",
+  "role": "temporary",
+  "date_created": "2023-08-05"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d592f"
+  },
+  "google_id": "109283746509182374650",
+  "username": "Ryan Chen",
+  "email": "ryan.chen@email.com",
+  "preferred_name": "Ryan",
+  "phone_number": "+1-818-555-2345",
+  "role": "storeowner",
+  "date_created": "2023-08-06"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5930"
+  },
+  "google_id": "564738291056473829105",
+  "username": "Emily Davis",
+  "email": "emily.davis@email.com",
+  "preferred_name": "Em",
+  "phone_number": "+1-619-555-3456",
+  "role": "driver",
+  "date_created": "2023-08-07"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5931"
+  },
+  "google_id": "098765432109876543210",
+  "username": "Michael Johnson",
+  "email": "michael.johnson@email.com",
+  "preferred_name": "Mike",
+  "phone_number": "+1-414-555-4567",
+  "role": "admin",
+  "date_created": "2023-08-08"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5932"
+  },
+  "google_id": "908172635490817263549",
+  "username": "Samantha Lee",
+  "email": "samantha.lee@email.com",
+  "preferred_name": "Sam",
+  "phone_number": "+1-512-555-5678",
+  "role": "inventoryManager",
+  "date_created": "2023-08-09"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5933"
+  },
+  "google_id": "192837465918273645918",
+  "username": "Robert Brown",
+  "email": "robert.brown@email.com",
+  "preferred_name": "Rob",
+  "phone_number": "+1-202-555-6789",
+  "role": "temporary",
+  "date_created": "2023-08-10"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5934"
+  },
+  "google_id": "837465918273645918273",
+  "username": "Lauren Martinez",
+  "email": "lauren.martinez@email.com",
+  "preferred_name": "Laurie",
+  "phone_number": "+1-323-555-2345",
+  "role": "storeowner",
+  "date_created": "2023-08-11"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5935"
+  },
+  "google_id": "726354918273645918273",
+  "username": "Daniel Harris",
+  "email": "daniel.harris@email.com",
+  "preferred_name": "Dan",
+  "phone_number": "+1-646-555-3456",
+  "role": "driver",
+  "date_created": "2023-08-12"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5936"
+  },
+  "google_id": "283746592837465928374",
+  "username": "Olivia Wilson",
+  "email": "olivia.wilson@email.com",
+  "preferred_name": "Liv",
+  "phone_number": "+1-818-555-4567",
+  "role": "admin",
+  "date_created": "2023-08-13"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5937"
+  },
+  "google_id": "736459283746592837465",
+  "username": "Christopher Young",
+  "email": "chris.young@email.com",
+  "preferred_name": "Chris",
+  "phone_number": "+1-690-445-3498",
+  "role": "inventoryManager",
+  "date_created": "2023-08-14"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5938"
+  },
+  "google_id": "293746502937465029374",
+  "username": "Sophia Robinson",
+  "email": "sophia.robinson@email.com",
+  "preferred_name": "Sophie",
+  "phone_number": "+1-720-496-5033",
+  "role": "temporary",
+  "date_created": "2023-08-15"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5939"
+  },
+  "google_id": "938274650938274650938",
+  "username": "Benjamin Carter",
+  "email": "benjamin.carter@email.com",
+  "preferred_name": "Ben",
+  "phone_number": "+1-702-555-7890",
+  "role": "storeowner",
+  "date_created": "2023-08-16"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d593a"
+  },
+  "google_id": "827365490827365490827",
+  "username": "Ava Nelson",
+  "email": "ava.nelson@email.com",
+  "preferred_name": "Ava",
+  "phone_number": "+1-415-555-8901",
+  "role": "driver",
+  "date_created": "2023-08-17"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d593b"
+  },
+  "google_id": "173645908273645908273",
+  "username": "Matthew Scott",
+  "email": "matthew.scott@email.com",
+  "preferred_name": "Matt",
+  "phone_number": "+1-312-555-9012",
+  "role": "admin",
+  "date_created": "2023-08-18"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d593c"
+  },
+  "google_id": "765432109876543210987",
+  "username": "Natalie Green",
+  "email": "natalie.green@email.com",
+  "preferred_name": "Nat",
+  "phone_number": "+1-202-555-3456",
+  "role": "inventoryManager",
+  "date_created": "2023-08-19"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d593d"
+  },
+  "google_id": "098172635490817263549",
+  "username": "Ethan White",
+  "email": "ethan.white@email.com",
+  "preferred_name": "Ethan",
+  "phone_number": "+1-646-555-4567",
+  "role": "temporary",
+  "date_created": "2023-08-20"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d593e"
+  },
+  "google_id": "876543210987654321098",
+  "username": "Liam Adams",
+  "email": "liam.adams@email.com",
+  "preferred_name": "Liam",
+  "phone_number": "+1-312-555-1111",
+  "role": "storeowner",
+  "date_created": "2023-09-01"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d593f"
+  },
+  "google_id": "765432109876543210987",
+  "username": "Emma Richardson",
+  "email": "emma.richardson@email.com",
+  "preferred_name": "Emma",
+  "phone_number": "+1-415-555-2222",
+  "role": "storeowner",
+  "date_created": "2023-09-02"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5940"
+  },
+  "google_id": "654321098765432109876",
+  "username": "Noah Baker",
+  "email": "noah.baker@email.com",
+  "preferred_name": "Noah",
+  "phone_number": "+1-213-555-3333",
+  "role": "storeowner",
+  "date_created": "2023-09-03"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5941"
+  },
+  "google_id": "543210987654321098765",
+  "username": "Olivia Scott",
+  "email": "olivia.scott@email.com",
+  "preferred_name": "Liv",
+  "phone_number": "+1-646-555-4444",
+  "role": "storeowner",
+  "date_created": "2023-09-04"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5942"
+  },
+  "google_id": "432109876543210987654",
+  "username": "William Carter",
+  "email": "william.carter@email.com",
+  "preferred_name": "Will",
+  "phone_number": "+1-818-555-5555",
+  "role": "storeowner",
+  "date_created": "2023-09-05"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5943"
+  },
+  "google_id": "321098765432109876543",
+  "username": "Sophia Martinez",
+  "email": "sophia.martinez@email.com",
+  "preferred_name": "Sophie",
+  "phone_number": "+1-702-555-6666",
+  "role": "storeowner",
+  "date_created": "2023-09-06"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5944"
+  },
+  "google_id": "210987654321098765432",
+  "username": "James Robinson",
+  "email": "james.robinson@email.com",
+  "preferred_name": "James",
+  "phone_number": "+1-503-555-7777",
+  "role": "storeowner",
+  "date_created": "2023-09-07"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5945"
+  },
+  "google_id": "109876543210987654321",
+  "username": "Isabella Wright",
+  "email": "isabella.wright@email.com",
+  "preferred_name": "Bella",
+  "phone_number": "+1-612-555-8888",
+  "role": "storeowner",
+  "date_created": "2023-09-08"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5946"
+  },
+  "google_id": "908765432109876543210",
+  "username": "Benjamin King",
+  "email": "benjamin.king@email.com",
+  "preferred_name": "Ben",
+  "phone_number": "+1-202-555-9999",
+  "role": "storeowner",
+  "date_created": "2023-09-09"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5947"
+  },
+  "google_id": "807654321098765432109",
+  "username": "Mia Turner",
+  "email": "mia.turner@email.com",
+  "preferred_name": "Mia",
+  "phone_number": "+1-919-555-0000",
+  "role": "storeowner",
+  "date_created": "2023-09-10"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5948"
+  },
+  "google_id": "706543210987654321098",
+  "username": "Ethan Perez",
+  "email": "ethan.perez@email.com",
+  "preferred_name": "Ethan",
+  "phone_number": "+1-415-555-1010",
+  "role": "storeowner",
+  "date_created": "2023-09-11"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5949"
+  },
+  "google_id": "605432109876543210987",
+  "username": "Charlotte Hayes",
+  "email": "charlotte.hayes@email.com",
+  "preferred_name": "Charlie",
+  "phone_number": "+1-707-555-2020",
+  "role": "storeowner",
+  "date_created": "2023-09-12"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d594a"
+  },
+  "google_id": "504321098765432109876",
+  "username": "Alexander Nelson",
+  "email": "alexander.nelson@email.com",
+  "preferred_name": "Alex",
+  "phone_number": "+1-801-555-3030",
+  "role": "storeowner",
+  "date_created": "2023-09-13"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d594b"
+  },
+  "google_id": "403210987654321098765",
+  "username": "Amelia Foster",
+  "email": "amelia.foster@email.com",
+  "preferred_name": "Amy",
+  "phone_number": "+1-602-555-4040",
+  "role": "storeowner",
+  "date_created": "2023-09-14"
+},
+{
+  "_id": {
+    "$oid": "67cb9b89b39c3bf08c3d594c"
+  },
+  "google_id": "302109876543210987654",
+  "username": "Daniel Reed",
+  "email": "daniel.reed@email.com",
+  "preferred_name": "Dan",
+  "phone_number": "+1-407-555-5050",
+  "role": "storeowner",
+  "date_created": "2023-09-15"
+}]

@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "67cba335b39c3bf08c3d595c"
+  },
+  "store_id": "67cb80cab39c3bf08c3d590b",
+  "deliverer_id": {
+    "$oid": "67cb9b89b39c3bf08c3d592c"
+  },
+  "candy_ordered": [
+    {
+      "candy_id": {
+        "$oid": "67cb801eb39c3bf08c3d58dc"
+      },
+      "quantity": 30
+    },
+    {
+      "candy_id": {
+        "$oid": "67cb801eb39c3bf08c3d58dd"
+      },
+      "quantity": 20
+    }
+  ],
+  "total_price": 64.8,
+  "date_created": "2024-03-01",
+  "last_updated": "2024-03-02T08:15:30Z",
+  "delivery_status": "pending",
+  "delivery_address": "123 Sweet St, Los Angeles, CA 90001",
+  "delivery_contact": "Maria Lopez",
+  "delivery_phone_number": "+1-323-555-1234"
+},
+{
+  "_id": {
+    "$oid": "67cba335b39c3bf08c3d595d"
+  },
+  "store_id": "67cb80cab39c3bf08c3d590c",
+  "deliverer_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5930"
+  },
+  "candy_ordered": [
+    {
+      "candy_id": {
+        "$oid": "67cb801eb39c3bf08c3d58de"
+      },
+      "quantity": 15
+    },
+    {
+      "candy_id": {
+        "$oid": "67cb801eb39c3bf08c3d58df"
+      },
+      "quantity": 25
+    }
+  ],
+  "total_price": 57.5,
+  "date_created": "2024-03-02",
+  "last_updated": "2024-03-02T12:30:10Z",
+  "delivery_status": "shipped",
+  "delivery_address": "456 Gummy Ln, San Francisco, CA 94105",
+  "delivery_contact": "Ryan Chen",
+  "delivery_phone_number": "+1-415-555-5678"
+},
+{
+  "_id": {
+    "$oid": "67cba335b39c3bf08c3d595e"
+  },
+  "store_id": "67cb80cab39c3bf08c3d590d",
+  "deliverer_id": {
+    "$oid": "67cb9b89b39c3bf08c3d5935"
+  },
+  "candy_ordered": [
+    {
+      "candy_id": {
+        "$oid": "67cb801eb39c3bf08c3d58e0"
+      },
+      "quantity": 10
+    },
+    {
+      "candy_id": {
+        "$oid": "67cb801eb39c3bf08c3d58e1"
+      },
+      "quantity": 40
+    }
+  ],
+  "total_price": 76,
+  "date_created": "2024-03-03",
+  "last_updated": "2024-03-03T14:45:22Z",
+  "delivery_status": "delivered",
+  "delivery_address": "789 Cocoa Ave, Chicago, IL 60601",
+  "delivery_contact": "Lauren Martinez",
+  "delivery_phone_number": "+1-312-555-7890"
+}]
