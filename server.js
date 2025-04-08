@@ -39,6 +39,9 @@ app.set('view engine', 'ejs');
 const path = require('path');
 app.set('views', path.join(__dirname, 'views')); // Assuming the views folder is in the root directory
 
+app.use(express.static(path.join(__dirname, 'public')));
+
+
 // Load SSL certificates only for local development
 let sslOptions = null;
 if (!isProduction) {

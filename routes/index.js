@@ -9,12 +9,16 @@ const candyRoutes = require('./candy');
 const storesRoutes = require('./stores');
 const ordersRoutes = require('./orders');
 const utilities = require('../utilities/index');
+const indexController = require('../controllers/index');
 
 // Mount the entry point route to display the main page
 router.get('/', require('../controllers/index').buildIndex);
 
 // Mount the Swagger routes to serve the API documentation
-router.use('/api-docs', utilities.handleErrors(swaggerDocs));
+router.use('/', utilities.handleErrors(swaggerDocs));
+
+// Serve the Home page at `/home` route
+router.get('/home', indexController.buildHome);
 
 // Mount the sub-router to handle all routes under /authRoutes
 router.use('/auth', utilities.handleErrors(authRoutes));

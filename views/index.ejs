@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-  <% include partials/head.ejs %>
+  <%- include('partials/head') %>
   <body>
-    <% include partials/header.ejs %>
+    <%- include('partials/header') %>
 
     <main>
       <h2><%= title %></h2>
       <p>Welcome to the Candy Store! 🍬</p>
     </main>
 
-    <% include partials/footer.ejs %>
+    <%- include('partials/footer') %>
   </body>
 </html>
