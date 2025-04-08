@@ -30,6 +30,15 @@ const isProduction = process.env.NODE_ENV === 'production';
 const port = process.env.PORT || 8080;
 const httpsPort = process.env.HTTPS_PORT || 8443;
 
+
+// Set the view engine to EJS
+app.set('view engine', 'ejs');
+
+
+// Define the path to the views directory
+const path = require('path');
+app.set('views', path.join(__dirname, 'views')); // Assuming the views folder is in the root directory
+
 // Load SSL certificates only for local development
 let sslOptions = null;
 if (!isProduction) {

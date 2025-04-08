@@ -3,12 +3,8 @@
 const indexController = {};
 
 indexController.buildIndex = async function (req, res) {
-  res.json({
-    message: 'Welcome to the SugarRush API',
-    available_routes: {
-      '/api-docs': 'View the API documentation'
-    }
-  });
+  // Render the 'index' view and pass a title to the view
+  res.render('index', { title: 'Welcome to the Candy Store' });
 };
 
 module.exports = indexController;

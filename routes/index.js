@@ -14,7 +14,7 @@ const utilities = require('../utilities/index');
 router.get('/', require('../controllers/index').buildIndex);
 
 // Mount the Swagger routes to serve the API documentation
-router.use('/', utilities.handleErrors(swaggerDocs));
+router.use('/api-docs', utilities.handleErrors(swaggerDocs));
 
 // Mount the sub-router to handle all routes under /authRoutes
 router.use('/auth', utilities.handleErrors(authRoutes));
