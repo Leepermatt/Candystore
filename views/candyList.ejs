@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Candy List</title>
+  <style>
+    table { width: 100%; border-collapse: collapse; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+    th { background-color: #f4f4f4; }
+  </style>
+</head>
+<body>
+  <h1>Available Candy</h1>
+  <table>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Container</th>
+        <th>Price</th>
+        <th>Stock</th>
+        <th>Supplier</th>
+        <th>Date Added</th>
+      </tr>
+    </thead>
+    <tbody>
+      <% candyList.forEach(candy => { %>
+        <tr>
+          <td><%= candy.name %></td>
+          <td><%= candy.description %></td>
+          <td><%= candy.shipping_container %></td>
+          <td>$<%= candy.price_per_unit.toFixed(2) %></td>
+          <td><%= candy.stock_quantity %></td>
+          <td><%= candy.supplier_name %></td>
+          <td><%= new Date(candy.date_added).toLocaleDateString() %></td>
+        </tr>
+      <% }); %>
+    </tbody>
+  </table>
+</body>
+</html>

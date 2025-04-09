@@ -59,3 +59,72 @@
     text-decoration: underline;
   }
   
+  body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background: linear-gradient(to bottom right, #ffe0f0, #fff0f9);
+    padding: 2rem;
+    color: #333;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    color: #ff4da6;
+    text-shadow: 1px 1px 2px #ff99cc;
+    margin-bottom: 2rem;
+  }
+
+  .candy-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1rem;
+  }
+
+  .candy-card {
+    background: #ffffff;
+    border: 3px solid #ffd1ec;
+    border-radius: 20px;
+    padding: 1.5rem;
+    box-shadow: 0 6px 15px rgba(255, 153, 204, 0.2);
+    transition: transform 0.3s ease;
+  }
+
+  .candy-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 20px rgba(255, 102, 178, 0.4);
+  }
+
+  .candy-card h3 {
+    color: #ff3399;
+    margin-bottom: 0.5rem;
+  }
+
+  .candy-card p {
+    margin: 0.3rem 0;
+    font-size: 0.95rem;
+  }
+
+  .no-results {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #888;
+    margin-top: 2rem;
+  }
+
+  .btn {
+    display: inline-block;
+    padding: 0.6rem 1.2rem;
+    background-color: #ff66b2;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    font-size: 1rem;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s;
+  }
+
+  .btn:hover {
+    background-color: #ff3385;
+  }

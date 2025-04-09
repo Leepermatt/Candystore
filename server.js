@@ -11,6 +11,8 @@ const cors = require('cors');
 const mongodb = require('./db/connect');
 const routes = require('./routes/index');
 const utilities = require('./utilities/index');
+const authRoutes = require('./routes/authRoutes'); // Import authRoutes
+const candyController = require("./controllers/webcandy.js");
 
 // Initialize Passport and restore authentication state
 require('./auth/passportConfig');
@@ -111,9 +113,19 @@ app.use((req, res, next) => {
   }
   next();
 });
+// Add your routes for Google OAuth (Web App)
+// app.use('/auth', authRoutes); // Use the auth routes for login
+
+// Render candy list page
+// app.get("/candy", candyController.getAllCandy);
 
 // Routes
 app.use('/', utilities.handleErrors(routes));
+
+// Other routes (your main app routes)
+app.get('/', (req, res) => {
+  res.send('Welcome to the Web App!');
+});
 
 // Health check route
 app.use('*', (_req, res) => {
